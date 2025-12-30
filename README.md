@@ -12,7 +12,7 @@ An AI-based CLI assistant to help you with command line & shell.
 **2. Manual Installation**
   - Clone the repository & cd into it
   ```bash
-  git clone https://github.com/FireHead90544/how-cli && cd how-cli
+  git clone https://github.com/zenessis/how-cli && cd how-cli
   ```
   - Ensure you're in a virtual environment.
   - Install the application.
