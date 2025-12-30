@@ -2,10 +2,6 @@
 An AI-based CLI assistant to help you with command line & shell.
 
 
-## Demo 
-https://github.com/user-attachments/assets/effefe1a-c0ed-4b60-838c-98f992f6c25f
-
-
 ## Installation
 **1. Using `pip`**
   - Ensure python is installed on your system. (Tested against Python 3.11+)
