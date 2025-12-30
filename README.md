@@ -82,10 +82,6 @@ $ how to [OPTIONS] TASK
 | Anthropic | `claude-3-5-sonnet-20240620` | `langchain-anthropic` | ❌ |
 
 
-# License
-`how-cil` is licensed under the MIT License, it can be found [here](https://github.com/FireHead90544/how-cli/blob/main/LICENSE).
-
-
 # Honourable Mentions
 This project is greatly inspired by [kynnyhsap's](https://github.com/kynnyhsap) [how](https://github.com/kynnyhsap/how). Though my implementation is completely different (refer to the below image for architectural details), but at the core both the projects aims to do the same thing. Also, check out LangChain & Typer using which this project was built.
 
