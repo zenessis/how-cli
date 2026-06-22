@@ -13,14 +13,14 @@ setup(
     description="An AI-based CLI assistant to help you with command line & shell.",
     long_description=readme,
     long_description_content_type="text/markdown",
-    url="https://github.com/FireHead90544/how-cli",
+    url="https://github.com/zenessis/how-cli",
     project_urls={
-        "Issue Tracker": "https://github.com/FireHead90544/how-cli/issues",
+        "Issue Tracker": "https://github.com/zenessis/how-cli/issues",
     },
     author=__author__,
-    author_email="rudranshjoshi1806@gmail.com",
+    author_email="guptashiv018@gmail.com",
     platforms="any",
-    license="MIT",
+    license="",
     packages=find_packages(),
     install_requires=requirements,
     entry_points={
